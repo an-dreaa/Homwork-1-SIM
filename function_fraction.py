@@ -41,7 +41,7 @@ def add_frac(zaeler1, nenner1, zaeler2, nenner2):
        return zaeler/ggt, nennerg/ggt
       
       
-#testing this function   
+  
 
 
 
