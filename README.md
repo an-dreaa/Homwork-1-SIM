@@ -8,12 +8,14 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Dieses Repository enthält 2 Funktionen:
+Dieses Repository enthält 3 Funktionen:
 
 add_frac ist eine Funktion die 2 Brüche miteinander addiert und mit ihrem größten gemeinsamen Teiler (ggt) kürzt.
 Dies ist eine oft verwendete Rechenoperatuion.
 
-Die Function ceasar kann Wörter und Sätze entschlüsseln bei denen alle Buchstaben gleich weit verschoben sind. 
-Diese Verschluesselung heisst so weil angeblich Caesar damit mit seinem Militaer kommunizierte.
-Dieses Veschluesselungsverfahren ist jedoch sehr unsicher und wird daher heutzutage nur mehr verwendet um die Grundprinzipien der Kryptographie zu veranschaulichen.
-Beim Verschluesseln wird nach rechts beim Entschluesseln nach links rotiert.
+Die Funktion is_prime testet ob eine Zahl eine Primzahl ist.
+
+Die Funktion ceasar kann Wörter und Sätze entschlüsseln bei denen alle Buchstaben gleich weit verschoben sind. 
+Diese Verschlüsselung heißt so weil angeblich Caesar damit mit seinem Militaer kommunizierte.
+Dieses Veschlüsselungsverfahren ist jedoch sehr unsicher und wird daher heutzutage nur mehr verwendet um die Grundprinzipien der Kryptographie zu veranschaulichen.
+Beim Verschlüsseln wird nach rechts beim Entschlüsseln nach links rotiert.
