@@ -1,4 +1,4 @@
-# Homwork-1-SIM
+# Homework-1-SIM
 Copyright 2020 Andrea Gennari
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
