@@ -41,6 +41,15 @@ def add_frac(zaeler1, nenner1, zaeler2, nenner2):
        return zaeler/ggt, nennerg/ggt
       
       
+      
+      
+def is_prime(ganzzahl):
+    for i in range(2,ganzzahl):
+        result=ganzzahl/i
+        if result.is_integer(): # Keine Primzahl
+            return 0
+    return 1
+
   
 
 
